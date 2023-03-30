@@ -1,0 +1,8 @@
+{
+  "user_id": "telegrams id",
+  "locale": "user's language",
+  "status": "vip, ban, user",
+  "expire_date": "Datetime.now()",
+  "check_id": "None | or digit",
+  "coins": 0
+}
